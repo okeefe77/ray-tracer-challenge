@@ -1,4 +1,5 @@
 mod cannon;
+mod color;
 mod point;
 mod util;
 mod vector;
